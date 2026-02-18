@@ -1,0 +1,16 @@
+# Arduino IDE build folder
+/build/
+/*.bin
+/*.elf
+*.hex
+
+# OS-spezifische Dateien
+Thumbs.db
+.DS_Store
+
+# Temporäre Arduino-Dateien
+*.tmp
+*.bak
+
+# Visual Studio Code Dateien (falls du VSCode nutzt)
+.vscode/
