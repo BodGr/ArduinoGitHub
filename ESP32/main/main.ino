@@ -5,4 +5,6 @@ void setup() {
 void loop() {
   Serial.println("ArduinoGitHub Test");
   delay(1000);
+  Serial.println("Hello ArduinoGitHub");
+  delay(1000);
 }
